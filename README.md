@@ -1,5 +1,5 @@
 # NEU-DET
-NEU-DET add noise
+NEU-DET dataset partitioning
 
 After the journal accept the source data will coming soon.
 
